@@ -1,0 +1,8 @@
+---
+#
+# Ansible managed
+#
+repository:
+  description: Configure sysctl on your system.
+  homepage: https://buluma.github.io/
+  topics: sysctl, ansible, molecule, tox, playbook, hacktoberfest
