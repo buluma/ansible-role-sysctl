@@ -35,10 +35,6 @@ jobs:
         config:
           - image: "alpine"
             tag: "latest"
-          - image: "debian"
-            tag: "bullseye"
-          - image: "debian"
-            tag: "bookworm"
           - image: "fedora"
             tag: "34"
           - image: "fedora"
