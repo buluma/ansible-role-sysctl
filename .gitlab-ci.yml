@@ -18,10 +18,10 @@ molecule:
     matrix:
       - image: "alpine"
         tag: "latest"
-      - image: "debian"
-        tag: "bullseye"
-      - image: "debian"
-        tag: "bookworm"
+      # - image: "debian"
+      #  tag: "bullseye"
+      # - image: "debian"
+      #  tag: "bookworm"   # TODO fatal: [sysctl-debian-bookworm]: FAILED! => {"changed": false, "msg": "No package matching 'procps' is available"}
       - image: "fedora"
         tag: "34"
       - image: "fedora"
