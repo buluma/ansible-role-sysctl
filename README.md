@@ -4,7 +4,7 @@ Configure sysctl on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-sysctl/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-sysctl/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-sysctl/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-sysctl)|[![quality](https://img.shields.io/ansible/quality/57909)](https://galaxy.ansible.com/buluma/sysctl)|[![downloads](https://img.shields.io/ansible/role/d/57909)](https://galaxy.ansible.com/buluma/sysctl)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-sysctl.svg)](https://github.com/buluma/ansible-role-sysctl/releases/)|
+|[![github](https://github.com/buluma/ansible-role-sysctl/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-sysctl/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-sysctl/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-sysctl)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/buluma/sysctl)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/buluma/sysctl)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-sysctl.svg)](https://github.com/buluma/ansible-role-sysctl/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -107,4 +107,4 @@ Apache-2.0
 
 ## [Author Information](#author-information)
 
-[Michael Buluma](https://buluma.github.io/) 2022
+[Michael Buluma](https://buluma.github.io/)
