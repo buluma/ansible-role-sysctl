@@ -1,10 +1,10 @@
-# [sysctl](#sysctl)
+# [Ansible role sysctl](#sysctl)
 
 Configure sysctl on your system.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-sysctl/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-sysctl/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-sysctl/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-sysctl)|[![quality](https://img.shields.io/ansible/quality/58001)](https://galaxy.ansible.com/buluma/sysctl)|[![downloads](https://img.shields.io/ansible/role/d/58001)](https://galaxy.ansible.com/buluma/sysctl)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-sysctl.svg)](https://github.com/buluma/ansible-role-sysctl/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-sysctl.svg)](https://github.com/buluma/ansible-role-sysctl/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-sysctl.svg)](https://github.com/buluma/ansible-role-sysctl/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-sysctl/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-sysctl/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-sysctl/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-sysctl)|[![downloads](https://img.shields.io/ansible/role/d/4850)](https://galaxy.ansible.com/buluma/sysctl)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-sysctl.svg)](https://github.com/buluma/ansible-role-sysctl/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-sysctl.svg)](https://github.com/buluma/ansible-role-sysctl/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-sysctl.svg)](https://github.com/buluma/ansible-role-sysctl/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
