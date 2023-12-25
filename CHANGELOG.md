@@ -1,5 +1,14 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-sysctl/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.0.10...HEAD)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#24](https://github.com/buluma/ansible-role-sysctl/issues/24)
+- Update action [\#23](https://github.com/buluma/ansible-role-sysctl/issues/23)
+
 ## [1.0.10](https://github.com/buluma/ansible-role-sysctl/tree/1.0.10) (2022-07-08)
 
 [Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.0.9...1.0.10)
@@ -20,6 +29,10 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.0.6...1.0.7)
 
+**Merged pull requests:**
+
+- concurrency [\#15](https://github.com/buluma/ansible-role-sysctl/pull/15) ([buluma](https://github.com/buluma))
+
 ## [1.0.6](https://github.com/buluma/ansible-role-sysctl/tree/1.0.6) (2022-02-12)
 
 [Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.0.5...1.0.6)
@@ -39,7 +52,6 @@
 
 **Merged pull requests:**
 
-- concurrency [\#15](https://github.com/buluma/ansible-role-sysctl/pull/15) ([buluma](https://github.com/buluma))
 - Gitlab CI update [\#12](https://github.com/buluma/ansible-role-sysctl/pull/12) ([buluma](https://github.com/buluma))
 - Update Role badges [\#11](https://github.com/buluma/ansible-role-sysctl/pull/11) ([buluma](https://github.com/buluma))
 
