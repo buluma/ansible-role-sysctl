@@ -1,5 +1,17 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-sysctl/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.0.12...HEAD)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#27](https://github.com/buluma/ansible-role-sysctl/issues/27)
+
+## [1.0.12](https://github.com/buluma/ansible-role-sysctl/tree/1.0.12) (2023-12-26)
+
+[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.0.11...1.0.12)
+
 ## [1.0.11](https://github.com/buluma/ansible-role-sysctl/tree/1.0.11) (2023-12-26)
 
 [Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.0.10...1.0.11)
