@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-sysctl/tree/HEAD)
+## [1.2.0](https://github.com/buluma/ansible-role-sysctl/tree/1.2.0) (2024-01-11)
 
-[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.1.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.1.0...1.2.0)
 
 **Merged pull requests:**
 
