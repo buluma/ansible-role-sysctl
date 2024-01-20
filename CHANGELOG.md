@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/molecule-action from 6.0.1 to 6.0.3 [\#32](https://github.com/buluma/ansible-role-sysctl/pull/32) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#31](https://github.com/buluma/ansible-role-sysctl/pull/31) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.2.0](https://github.com/buluma/ansible-role-sysctl/tree/1.2.0) (2024-01-11)
@@ -61,14 +62,11 @@
 **Merged pull requests:**
 
 - concurrency [\#15](https://github.com/buluma/ansible-role-sysctl/pull/15) ([buluma](https://github.com/buluma))
+- version bump/focal [\#13](https://github.com/buluma/ansible-role-sysctl/pull/13) ([buluma](https://github.com/buluma))
 
 ## [1.0.6](https://github.com/buluma/ansible-role-sysctl/tree/1.0.6) (2022-02-12)
 
 [Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.0.5...1.0.6)
-
-**Merged pull requests:**
-
-- version bump/focal [\#13](https://github.com/buluma/ansible-role-sysctl/pull/13) ([buluma](https://github.com/buluma))
 
 ## [1.0.5](https://github.com/buluma/ansible-role-sysctl/tree/1.0.5) (2022-02-11)
 
