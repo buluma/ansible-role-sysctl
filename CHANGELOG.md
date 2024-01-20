@@ -62,11 +62,14 @@
 **Merged pull requests:**
 
 - concurrency [\#15](https://github.com/buluma/ansible-role-sysctl/pull/15) ([buluma](https://github.com/buluma))
-- version bump/focal [\#13](https://github.com/buluma/ansible-role-sysctl/pull/13) ([buluma](https://github.com/buluma))
 
 ## [1.0.6](https://github.com/buluma/ansible-role-sysctl/tree/1.0.6) (2022-02-12)
 
 [Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.0.5...1.0.6)
+
+**Merged pull requests:**
+
+- version bump/focal [\#13](https://github.com/buluma/ansible-role-sysctl/pull/13) ([buluma](https://github.com/buluma))
 
 ## [1.0.5](https://github.com/buluma/ansible-role-sysctl/tree/1.0.5) (2022-02-11)
 
