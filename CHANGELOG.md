@@ -2,7 +2,15 @@
 
 ## [Unreleased](https://github.com/buluma/ansible-role-sysctl/tree/HEAD)
 
-[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.1.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.2.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#31](https://github.com/buluma/ansible-role-sysctl/pull/31) ([dependabot[bot]](https://github.com/apps/dependabot))
+
+## [1.2.0](https://github.com/buluma/ansible-role-sysctl/tree/1.2.0) (2024-01-11)
+
+[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.1.0...1.2.0)
 
 **Merged pull requests:**
 
