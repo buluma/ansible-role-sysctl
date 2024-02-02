@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-sysctl/tree/HEAD)
+## [1.2.1](https://github.com/buluma/ansible-role-sysctl/tree/1.2.1) (2024-01-20)
 
-[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.2.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.2.0...1.2.1)
 
 **Merged pull requests:**
 
@@ -73,7 +73,7 @@
 
 ## [1.0.5](https://github.com/buluma/ansible-role-sysctl/tree/1.0.5) (2022-02-11)
 
-[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.0.4...1.0.5)
+[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.0.3...1.0.5)
 
 **Closed issues:**
 
@@ -85,13 +85,13 @@
 - Gitlab CI update [\#12](https://github.com/buluma/ansible-role-sysctl/pull/12) ([buluma](https://github.com/buluma))
 - Update Role badges [\#11](https://github.com/buluma/ansible-role-sysctl/pull/11) ([buluma](https://github.com/buluma))
 
-## [1.0.4](https://github.com/buluma/ansible-role-sysctl/tree/1.0.4) (2022-02-06)
-
-[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.0.3...1.0.4)
-
 ## [1.0.3](https://github.com/buluma/ansible-role-sysctl/tree/1.0.3) (2022-02-06)
 
-[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.0.2...1.0.3)
+[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.0.4...1.0.3)
+
+## [1.0.4](https://github.com/buluma/ansible-role-sysctl/tree/1.0.4) (2022-02-06)
+
+[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.0.2...1.0.4)
 
 ## [1.0.2](https://github.com/buluma/ansible-role-sysctl/tree/1.0.2) (2022-02-06)
 
@@ -109,18 +109,11 @@
 
 ## [1.0.1](https://github.com/buluma/ansible-role-sysctl/tree/1.0.1) (2022-02-03)
 
-[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/v1.0.1...1.0.1)
+[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.0.0...1.0.1)
 
 **Merged pull requests:**
 
 - debian : No package matching 'procps' is available [\#5](https://github.com/buluma/ansible-role-sysctl/pull/5) ([buluma](https://github.com/buluma))
-
-## [v1.0.1](https://github.com/buluma/ansible-role-sysctl/tree/v1.0.1) (2022-02-03)
-
-[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.0.0...v1.0.1)
-
-**Merged pull requests:**
-
 - Local Test Release 1 [\#3](https://github.com/buluma/ansible-role-sysctl/pull/3) ([buluma](https://github.com/buluma))
 
 ## [1.0.0](https://github.com/buluma/ansible-role-sysctl/tree/1.0.0) (2022-02-03)
