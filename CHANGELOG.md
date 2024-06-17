@@ -25,6 +25,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.8 [\#30](https://github.com/buluma/ansible-role-sysctl/pull/30) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump actions/checkout from 3 to 4 [\#29](https://github.com/buluma/ansible-role-sysctl/pull/29) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.1.0](https://github.com/buluma/ansible-role-sysctl/tree/1.1.0) (2024-01-02)
@@ -91,7 +92,6 @@
 
 **Merged pull requests:**
 
-- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.8 [\#30](https://github.com/buluma/ansible-role-sysctl/pull/30) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Gitlab CI update [\#12](https://github.com/buluma/ansible-role-sysctl/pull/12) ([buluma](https://github.com/buluma))
 - Update Role badges [\#11](https://github.com/buluma/ansible-role-sysctl/pull/11) ([buluma](https://github.com/buluma))
 
