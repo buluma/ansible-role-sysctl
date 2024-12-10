@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump ansible/ansible-lint from 24.9.2 to 24.10.0 [\#40](https://github.com/buluma/ansible-role-sysctl/pull/40) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.9.0 to 24.9.2 [\#39](https://github.com/buluma/ansible-role-sysctl/pull/39) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.7.0 to 24.9.0 [\#38](https://github.com/buluma/ansible-role-sysctl/pull/38) ([dependabot[bot]](https://github.com/apps/dependabot))
 
