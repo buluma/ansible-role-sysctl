@@ -4,6 +4,11 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/24.3.31...HEAD)
 
+**Closed issues:**
+
+- Update action [\#26](https://github.com/buluma/ansible-role-sysctl/issues/26)
+- rebuild action [\#25](https://github.com/buluma/ansible-role-sysctl/issues/25)
+
 **Merged pull requests:**
 
 - Bump ansible/ansible-lint from 24.12.2 to 25.1.0 [\#44](https://github.com/buluma/ansible-role-sysctl/pull/44) ([dependabot[bot]](https://github.com/apps/dependabot))
