@@ -1,5 +1,4 @@
 ---
-
 - name: assert | Test sysctl_set
   ansible.builtin.assert:
     that:
