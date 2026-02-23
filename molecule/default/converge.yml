@@ -1,11 +1,11 @@
 ---
-- name: converge
-  hosts: all
-  become: true
-  gather_facts: true
+  - name: converge
+    hosts: all
+    become: true
+    gather_facts: true
 
-  roles:
-    - role: buluma.sysctl
-      sysctl_items:
-        - name: net.ipv4.ip_forward
-          value: 1
+    roles:
+      - role: buluma.sysctl
+        sysctl_items:
+          - name: net.ipv4.ip_forward
+            value: 1
