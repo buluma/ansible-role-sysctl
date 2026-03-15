@@ -11,6 +11,7 @@
 
 **Merged pull requests:**
 
+- Bump docker/setup-buildx-action from 3 to 4 [\#46](https://github.com/buluma/ansible-role-sysctl/pull/46) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.12.2 to 25.1.0 [\#44](https://github.com/buluma/ansible-role-sysctl/pull/44) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.12.1 to 24.12.2 [\#43](https://github.com/buluma/ansible-role-sysctl/pull/43) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.12.0 to 24.12.1 [\#42](https://github.com/buluma/ansible-role-sysctl/pull/42) ([dependabot[bot]](https://github.com/apps/dependabot))
@@ -134,7 +135,6 @@
 
 - role update [\#8](https://github.com/buluma/ansible-role-sysctl/pull/8) ([buluma](https://github.com/buluma))
 - fixes \#4 [\#7](https://github.com/buluma/ansible-role-sysctl/pull/7) ([buluma](https://github.com/buluma))
-- Bump alstr/todo-to-issue-action from 4.5.4 to 4.6 [\#6](https://github.com/buluma/ansible-role-sysctl/pull/6) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.0.1](https://github.com/buluma/ansible-role-sysctl/tree/1.0.1) (2022-02-03)
 
@@ -151,6 +151,7 @@
 
 **Merged pull requests:**
 
+- Bump alstr/todo-to-issue-action from 4.5.4 to 4.6 [\#6](https://github.com/buluma/ansible-role-sysctl/pull/6) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump alstr/todo-to-issue-action from 2.3 to 4.5.4 [\#2](https://github.com/buluma/ansible-role-sysctl/pull/2) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/galaxy-action from 1.0.1 to 1.1.0 [\#1](https://github.com/buluma/ansible-role-sysctl/pull/1) ([dependabot[bot]](https://github.com/apps/dependabot))
 
