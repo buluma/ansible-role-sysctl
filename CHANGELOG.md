@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-sysctl/tree/HEAD)
+## [26.6.0](https://github.com/buluma/ansible-role-sysctl/tree/26.6.0) (2026-06-14)
 
-[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/24.3.31...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/24.3.31...26.6.0)
 
 **Closed issues:**
 
@@ -145,7 +145,6 @@
 
 - debian : No package matching 'procps' is available [\#5](https://github.com/buluma/ansible-role-sysctl/pull/5) ([buluma](https://github.com/buluma))
 - Local Test Release 1 [\#3](https://github.com/buluma/ansible-role-sysctl/pull/3) ([buluma](https://github.com/buluma))
-- Bump buluma/galaxy-action from 1.0.1 to 1.1.0 [\#1](https://github.com/buluma/ansible-role-sysctl/pull/1) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.0.0](https://github.com/buluma/ansible-role-sysctl/tree/1.0.0) (2022-02-03)
 
@@ -154,6 +153,7 @@
 **Merged pull requests:**
 
 - Bump alstr/todo-to-issue-action from 2.3 to 4.5.4 [\#2](https://github.com/buluma/ansible-role-sysctl/pull/2) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump buluma/galaxy-action from 1.0.1 to 1.1.0 [\#1](https://github.com/buluma/ansible-role-sysctl/pull/1) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 
 
