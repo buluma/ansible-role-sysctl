@@ -1,5 +1,9 @@
 # Changelog
 
+## [26.6.1](https://github.com/buluma/ansible-role-sysctl/tree/26.6.1) (2026-06-15)
+
+[Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/26.6.0...26.6.1)
+
 ## [26.6.0](https://github.com/buluma/ansible-role-sysctl/tree/26.6.0) (2026-06-14)
 
 [Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/24.3.31...26.6.0)
@@ -90,6 +94,7 @@
 
 **Merged pull requests:**
 
+- Bump actions/checkout from 3 to 4 [\#29](https://github.com/buluma/ansible-role-sysctl/pull/29) ([dependabot[bot]](https://github.com/apps/dependabot))
 - concurrency [\#15](https://github.com/buluma/ansible-role-sysctl/pull/15) ([buluma](https://github.com/buluma))
 
 ## [1.0.6](https://github.com/buluma/ansible-role-sysctl/tree/1.0.6) (2022-02-12)
@@ -98,7 +103,6 @@
 
 **Merged pull requests:**
 
-- Bump actions/checkout from 3 to 4 [\#29](https://github.com/buluma/ansible-role-sysctl/pull/29) ([dependabot[bot]](https://github.com/apps/dependabot))
 - version bump/focal [\#13](https://github.com/buluma/ansible-role-sysctl/pull/13) ([buluma](https://github.com/buluma))
 
 ## [1.0.5](https://github.com/buluma/ansible-role-sysctl/tree/1.0.5) (2022-02-11)
