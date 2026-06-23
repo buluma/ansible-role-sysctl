@@ -101,6 +101,10 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.0.5...1.0.6)
 
+**Merged pull requests:**
+
+- version bump/focal [\#13](https://github.com/buluma/ansible-role-sysctl/pull/13) ([buluma](https://github.com/buluma))
+
 ## [1.0.5](https://github.com/buluma/ansible-role-sysctl/tree/1.0.5) (2022-02-11)
 
 [Full Changelog](https://github.com/buluma/ansible-role-sysctl/compare/1.0.4...1.0.5)
@@ -133,7 +137,6 @@
 
 **Merged pull requests:**
 
-- version bump/focal [\#13](https://github.com/buluma/ansible-role-sysctl/pull/13) ([buluma](https://github.com/buluma))
 - role update [\#8](https://github.com/buluma/ansible-role-sysctl/pull/8) ([buluma](https://github.com/buluma))
 - fixes \#4 [\#7](https://github.com/buluma/ansible-role-sysctl/pull/7) ([buluma](https://github.com/buluma))
 - Bump alstr/todo-to-issue-action from 4.5.4 to 4.6 [\#6](https://github.com/buluma/ansible-role-sysctl/pull/6) ([dependabot[bot]](https://github.com/apps/dependabot))
